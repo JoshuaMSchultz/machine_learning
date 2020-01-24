@@ -3,5 +3,5 @@
 .ipynb_checkpoints/*
 .vscode
 .vscode/*
-./data/dogs-vs-cats/*
-./data/dogs-vs-cats/
+/data/dogs-vs-cats/*
+/data/dogs-vs-cats/
